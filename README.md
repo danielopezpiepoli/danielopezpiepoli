@@ -1,6 +1,6 @@
 # Hi, I'm Daniel López Piepoli 👋
 
-> **Data Science & Systems Enthusiast | Frontend Architect | Conductor**  
+> **Data Science | Frontend Architect | Orchestra Conductor**  
 > Building robust data solutions, production web platforms, and tailored digital architectures. Based in Berlin, Germany.
 
 ---
