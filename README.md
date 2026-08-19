@@ -9,7 +9,7 @@
 
 | Project | Scope & Architecture | Live Demo | Stack |
 | :--- | :--- | :---: | :---: |
-| **🎼 Berlinisches Sinfonieorchester** | Symphonic Orchestra: Institutional portal, seasonal concert calendars, and patron engagement platform. | [Live Demo](#) | `HTML5` `CSS3` `JS` |
+| **🎼 Berlinisches Sinfonieorchester** | Symphonic Orchestra: Institutional portal, seasonal concert calendars, and patron engagement platform. | [Live Demo](https://danielopezpiepoli.github.io/berlinisches-sinfonieorchester/) | `HTML5` `CSS3` `JS` |
 | **🪄 Daniel López Piepoli** | Conductor Portfolio: Artistic repertoire archive, media kit, and direct engagement management. | [Live Demo](#) | `HTML5` `CSS3` `JS` |
 | **🏛️ Anna Advisory** | Financial consultant: Cross-border wealth & legal compliance platform with custom 4-lang i18n engine. | [Live Demo](#) | `HTML5` `CSS3` `JS` `i18n` |
 | **🎻 Golder Star Agency** | String Quartet Agency: Classical ensemble booking, repertoire showcase, and client intake workflows. | [Live Demo](#) | `HTML5` `CSS3` `JS` |
