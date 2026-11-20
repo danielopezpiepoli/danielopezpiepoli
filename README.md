@@ -1,42 +1,44 @@
-# Hi, I'm Daniel López Piepoli 👋
+# Daniel López Piepoli
 
-> **Data Science & Analytics | Web Developer**  
-> Building end-to-end data pipelines, predictive models, and production web platforms. Based in Madrid, Spain.
+**Data Science & Analytics | Web Development**
+
+I turn operational data into insights through reporting pipelines, predictive models and dashboards, and I design and build production websites end to end. Based in Berlin, Germany. B.Sc. Data Science in progress (2027), with 7+ years in enterprise IT.
 
 ---
 
-### 📊 Data Science & Analytical Engineering
+### Data Science & Analytical Engineering
 
-| Project / Analysis | Domain & Methodology | Repo / Demo | Stack |
-| :--- | :--- | :---: | :---: |
-| **🎫 ITSM Ticket Resolution Predictor** | End-to-end regression pipeline benchmarking Ridge ($R^2 = 0.918$, $\text{MAE} = 1.15\text{h}$) vs. Random Forest on enterprise incident resolution dynamics. Includes EDA and automated metrics reporting. | [Repository](https://github.com/danielopezpiepoli/itsm-ticket-resolution-predictor) | `Python` `Scikit-Learn` `Pandas` `Seaborn` |
-| **📚 Spanish Golden Age Lexical Analysis** | Distributed NLP pipeline comparing raw vs. stop-word filtered word frequencies across classic Spanish literature using windowed ranking and historical archaism filtering. | [Repository](https://github.com/danielopezpiepoli/pyspark-golden-age-nlp) | `PySpark` `Spark SQL` `NLP` `Matplotlib` |
-| *(Coming Soon / Repo 1)* | Exploratory Data Analysis & Statistical Modeling | [Repository](#) | `Python` `Pandas` `SQL` |
-| *(Coming Soon / Repo 2)* | Predictive Modeling & Data Pipelines | [Repository](#) | `Python` `R` `PostgreSQL` |
+## Data Projects
+
+| Project | What it does | Repo | Stack |
+| --- | --- | --- | --- |
+| **ITSM Ticket Resolution Predictor** | End-to-end regression pipeline estimating IT ticket resolution time (synthetic ITSM data, valid for Jira, ServiceNow or Zendesk). Benchmarks Ridge (R² = 0.918, MAE = 1.15 h) vs. Random Forest. Includes EDA and automated metrics reporting. | [Repository](https://github.com/danielopezpiepoli/itsm-ticket-resolution-predictor) | `Python` `Scikit-Learn` `Pandas` `Seaborn` |
+| **Spanish Golden Age Lexical Analysis** | Distributed NLP pipeline comparing raw vs. stop-word-filtered word frequencies across classic Spanish literature, using windowed ranking and archaism filtering. | [Repository](https://github.com/danielopezpiepoli/pyspark-golden-age-nlp) | `PySpark` `Spark SQL` `NLP` `Matplotlib` |
+| *In progress* | Exploratory Data Analysis & Statistical Modeling | Coming soon | `Python` `Pandas` `SQL` |
+| *In progress* | Predictive Modeling & Data Pipelines | Coming soon | `Python` `R` `PostgreSQL` |
 
 ---
 
 ### 🌐 Featured Web Platforms & Production Work
 
-| Project | Scope & Architecture | Live Demo | Stack |
+| Project | Scope | Production | Stack |
 | :--- | :--- | :---: | :---: |
-| **🎼 Berlinisches Sinfonieorchester** | Symphonic Orchestra: Institutional portal, seasonal concert calendars, and patron engagement platform. | [Live](https://berlinisches-sinfonieorchester.de/)) / [Demo](https://danielopezpiepoli.github.io/berlinisches-sinfonieorchester/) | `HTML5` `CSS3` `JS` |
+| **🎼 Berlinisches Sinfonieorchester** | Symphonic Orchestra: Institutional portal, seasonal concert calendars, and patron engagement platform. | [Live](https://berlinisches-sinfonieorchester.de/) / [Demo](https://danielopezpiepoli.github.io/berlinisches-sinfonieorchester/) | `HTML5` `CSS3` `JS` |
 | **🪄 Daniel López Piepoli** | Conductor Portfolio: Artistic repertoire archive, media kit, and direct engagement management. | [Live](https://danielopezpiepoli.com/) / [Demo](https://danielopezpiepoli.github.io/daniel-lopez-piepoli-conductor/) /  | `HTML5` `CSS3` `JS` |
 | **🏛️ Anna Advisory** | Financial consultant: Cross-border wealth & legal compliance platform with custom 4-lang i18n engine. | [Live Demo](https://danielopezpiepoli.github.io/anna-financial-advisory/) | `HTML5` `CSS3` `JS` `i18n` |
 | **🎻 Golden Star Agency** | String Quartet Agency: Classical ensemble booking, repertoire showcase, and client intake workflows. | [Live](https://goldenstarmusic.agency/) / [Demo](https://danielopezpiepoli.github.io/golden-star/) | `HTML5` `CSS3` `JS` |
 
 ---
 
-### 🛠️ Core Capabilities & Tooling
+## Skills
 
-- **Data Science, Big Data & ML:** Python (PySpark, Scikit-Learn, Pandas, NumPy, Seaborn, Matplotlib), R, Distributed NLP & Text Mining, Supervised Regression, Exploratory Data Analysis (EDA), Pipeline Design & Preprocessing.
-- **Databases & Data Engineering:** SQL (PostgreSQL, MySQL), Relational Schema Design, Window Functions, Query Optimization, pgAdmin.
-- **Frontend & Web Systems:** Semantic HTML5, Modern Responsive CSS (Grid/Flexbox/`clamp()`), Vanilla JS (ES6+), Client-Side Localization Engines (i18n).
-- **Standards & Compliance:** GDPR / DSGVO European Privacy Standards, German Digital Services Act (§ 5 DDG), Git / GitHub Workflows.
-
+- **Data Science & ML:** Python (Pandas, NumPy, Scikit-Learn, PySpark, Seaborn, Matplotlib), R, Exploratory Data Analysis (EDA), Supervised Regression, Distributed NLP & Text Mining, Pipeline Design & Preprocessing.
+- **Databases & Data Engineering:** SQL (PostgreSQL, MySQL, SQLite, SQL Server), Relational Schema Design, Window Functions, Query Optimization, REST API automation.
+- **Operational analytics:** log and telemetry analysis, KPI and incident reporting, automated inventory reports.
+- **Web development:** Semantic HTML5, Responsive CSS (Grid, Flexbox), Vanilla JavaScript (ES6+), Client-Side Localization Engines (i18n), GDPR/DSGVO basics, Git and GitHub workflows.
 
 ---
 
-### 📬 Connect
-- 📍 Madrid, Spain
-- ✉️ [danielopezpiepoli@gmail.com](mailto:danielopezpiepoli@gmail.com)
+## Contact
+
+Berlin, Germany · [LinkedIn](https://www.linkedin.com/in/daniel-lopez-piepoli/) · [danielopezpiepoli@gmail.com](mailto:danielopezpiepoli@gmail.com)
